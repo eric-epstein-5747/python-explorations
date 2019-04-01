@@ -1,2 +1,2 @@
 # python-explorations
-# This repository contains my solutions to the exercises in John V. Guttag's "Introduction to Computation and Programming Using Python", 2nd Edition. 
+# This repository contains my solutions to the exercises in John V. Guttag's "Introduction to Computation and Programming Using Python", 2nd Edition. Filenames indicate the exercise to which it is a solution, plus the subject matter of the exercise. For instance, "Ex p30 adding decimals in a string" refers to my answer to the (unique) exercise on p.30 of Guttag's textbook in which we are asked to write a program that adds the decimals in a string. 
